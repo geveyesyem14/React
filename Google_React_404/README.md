@@ -2,7 +2,7 @@
 
 ## Overview
 
-<a href="https://github.com/Venkat-Banyan/Venkat-Banyan/edit/main/Google_React_404"><img src="https://github.com/Venkat-Banyan/Venkat-Banyan/blob/main/Google_React_404/Google_404_React_Image.png"></a>
+<a href="https://github.com/geveyesyem14/React/edit/main/Google_React_404"><img src="https://github.com/geveyesyem14/React/blob/main/Google_React_404/Google_404_React_Image.png"></a>
 
 
 ## Development Using
@@ -24,5 +24,5 @@
 - Extract Files
 - Install '$ npm' and node modules
 - Add Command '$ npm audit fix --force'
-- Run Project using 'npm start'
+- Run Project using '$ npm start'
 - Build project using '$ npm run build'
