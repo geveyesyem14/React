@@ -2,7 +2,7 @@
 
 ## Overview
 
-<a href="https://github.com/Venkat-Banyan/Venkat-Banyan/edit/main/WhatsApp_Web_React"><img src="https://github.com/Venkat-Banyan/Venkat-Banyan/blob/main/WhatsApp_Web_React/Whatsapp_Web_React.png"></a>
+<a href="https://github.com/geveyesyem14/React/edit/main/WhatsApp_Web_React"><img src="https://github.com/geveyesyem14/React/blob/main/WhatsApp_Web_React/Whatsapp_Web_React.png"></a>
 
 
 ## Development Using
@@ -24,5 +24,5 @@
 - Extract Files
 - Install '$ npm' and node modules
 - Add Command '$ npm audit fix --force'
-- Run Project using 'npm start'
+- Run Project using '$ npm start'
 - Build project using '$ npm run build'
